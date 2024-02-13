@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.vueschool.io/wp-content/uploads/2021/07/eslint-in-action.gif)]
 
 <h1 align="center">Hi 👋, I'm Solomon Ojo</h1>
-<h3 align="center">AN AI and Algorithm Computer Science Student</h3>
+<h3 align="center">AI and Algorithm Computer Science Student</h3>
 
 - 🔭 I’m currently working on **Text-to-Speech Synthesis**
 
