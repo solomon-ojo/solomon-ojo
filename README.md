@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-h1 align="center">Hi 👋, I'm Solomon Ojo</h1>
+<h1 align="center">Hi 👋, I'm Solomon Ojo</h1>
 <h3 align="center">A AI and Algorithm Computer Science Student</h3>
 <img align=“right” width=“400” src=“https://i.gifer.com/78KF.gif”>
 
